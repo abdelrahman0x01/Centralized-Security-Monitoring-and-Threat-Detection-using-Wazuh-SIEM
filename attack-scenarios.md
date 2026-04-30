@@ -23,7 +23,7 @@ An attacker repeatedly tries to guess SSH credentials on a Linux machine.
 
 ---
 
-## 2. File Integrity Modification (FIM)
+## 2. File Integrity Monitoring (FIM)
 
 ###  Scenario
 Unauthorized modification of sensitive system files.
